@@ -1,0 +1,24 @@
+{
+  "default_mode": "human_approval",
+  "allowed_actions": [
+    {
+      "id": "restart-approved-service",
+      "description": "Restart an approved service in a simulated environment",
+      "max_risk": "medium",
+      "requires_human_approval": true
+    },
+    {
+      "id": "clear-sample-cache",
+      "description": "Clear a predefined sample cache in a simulated environment",
+      "max_risk": "low",
+      "requires_human_approval": false
+    }
+  ],
+  "blocked_action_patterns": [
+    "shell",
+    "arbitrary_command",
+    "credential_change",
+    "firewall_disable",
+    "delete_data"
+  ]
+}
