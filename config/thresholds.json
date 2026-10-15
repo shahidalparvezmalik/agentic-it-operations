@@ -1,0 +1,13 @@
+{
+  "risk_penalties": {
+    "critical": 40,
+    "high": 25,
+    "medium": 10,
+    "low": 5
+  },
+  "confidence_thresholds": {
+    "low": 0.60,
+    "medium": 0.75,
+    "high": 0.90
+  }
+}
