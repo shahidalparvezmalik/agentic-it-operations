@@ -4,7 +4,7 @@
     {
       "id": "restart-approved-service",
       "description": "Restart an approved service in a simulated environment",
-      "max_risk": "medium",
+      "max_risk": "high",
       "requires_human_approval": true
     },
     {
