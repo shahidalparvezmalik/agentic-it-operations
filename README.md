@@ -1,5 +1,7 @@
 # AgenticOps — Governed AI for IT Operations
 
+[![Python Validation](https://github.com/shahidalparvezmalik/agentic-it-operations/actions/workflows/python.yml/badge.svg)](https://github.com/shahidalparvezmalik/agentic-it-operations/actions/workflows/python.yml)
+
 AgenticOps is a safe, reproducible proof of concept showing how AI-assisted IT Operations can move from technical signals to governed operational action.
 
 The project focuses on a practical operating model:
@@ -7,6 +9,18 @@ The project focuses on a practical operating model:
 **Observe → Correlate → Diagnose → Assess Risk → Recommend → Authorize → Simulate Action → Audit**
 
 The prototype does **not** grant unrestricted production access to an AI agent. High-impact actions require explicit human approval, while only predefined low-risk actions may be considered for controlled automation.
+
+## Executive View
+
+![AgenticOps Executive Dashboard](docs/images/agenticops-executive-dashboard.svg)
+
+The executive dashboard connects operational risk, active events, agent recommendations, human-approval requirements and audit coverage in one management-oriented view.
+
+## Governance Architecture
+
+![AgenticOps Governance Architecture](docs/images/agenticops-architecture.svg)
+
+The architecture separates AI-assisted reasoning from operational authority. Policy controls sit between recommendation and action, while audit records preserve the decision path.
 
 ## What This Project Demonstrates
 
@@ -146,7 +160,10 @@ agentic-it-operations/
 │   ├── AUTONOMY_MODEL.md
 │   ├── ACTION_POLICY.md
 │   ├── RISK_MODEL.md
-│   └── LINKEDIN_ARTICLE.md
+│   ├── LINKEDIN_ARTICLE.md
+│   └── images/
+│       ├── agenticops-executive-dashboard.svg
+│       └── agenticops-architecture.svg
 └── .github/
     └── workflows/
         └── python.yml
@@ -177,6 +194,8 @@ Key controls:
 - No unrestricted shell or remote execution
 - No real customer, employer, or production data
 
+See [Governance](docs/GOVERNANCE.md), [Autonomy Model](docs/AUTONOMY_MODEL.md), and [Action Policy](docs/ACTION_POLICY.md).
+
 ## Professional Relevance
 
 AgenticOps extends the portfolio's progression:
@@ -187,6 +206,16 @@ AgenticOps extends the portfolio's progression:
 4. **AgenticOps** — operational signals → governed AI decision → controlled action
 
 The objective is not autonomous action for its own sake. The objective is to improve operational decision quality while preserving accountability, control, and service reliability.
+
+## 2026 Industry Context
+
+Agentic AI is becoming an explicit Infrastructure & Operations priority. Gartner's 2026 research emphasizes the move from AI assistance toward governed autonomy, runtime guardrails and an operating model designed around risk and control.
+
+Cisco has also positioned AgenticOps as an agent-first IT operating model spanning networking, security and observability, with built-in oversight.
+
+- [Gartner — 2026 Heads of Infrastructure and IT Operations Priority: Scaling Agentic AI in I&O](https://www.gartner.com/en/documents/8404181)
+- [Gartner — Agentic AI Governance Framework for Infrastructure and IT Operations](https://www.gartner.com/en/documents/7885177)
+- [Cisco — Cisco Expands AgenticOps Innovations Across Portfolio](https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m02/cisco-expands-agenticops-innovations-across-portfolio.html)
 
 ## Project Status
 
@@ -201,9 +230,12 @@ Current scope:
 - Human approval simulation
 - Action simulation
 - Audit logging
+- Executive dashboard
+- Governance architecture visual
 - Tests and CI validation
+- LinkedIn article draft
 
-Future enhancements may include optional LLM-assisted reasoning, CMDB/ITSM integration, observability data, approval APIs, and service-impact mapping.
+Future enhancements may include optional LLM-assisted reasoning, CMDB/ITSM integration, observability data, approval APIs, service-impact mapping, agent identity controls and additional autonomy policies.
 
 ---
 
