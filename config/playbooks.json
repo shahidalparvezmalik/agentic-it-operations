@@ -1,0 +1,19 @@
+{
+  "restart-approved-service": {
+    "steps": [
+      "Validate target service is on the approved list",
+      "Verify risk and confidence thresholds",
+      "Request human approval",
+      "Simulate service restart",
+      "Record result and audit event"
+    ]
+  },
+  "clear-sample-cache": {
+    "steps": [
+      "Validate predefined sample target",
+      "Verify low-risk policy",
+      "Simulate cache cleanup",
+      "Record result and audit event"
+    ]
+  }
+}
