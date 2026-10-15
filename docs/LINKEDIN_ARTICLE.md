@@ -284,9 +284,40 @@ https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m02/cisco-expands-agentico
 Cisco/Omdia — The Impact of Agentic AI on Network Operations  
 https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/cisco-ai-research-agenticops-scaling-quickly-in-the-enterprise.html
 
-### Author
+---
 
-**Shahid Al Parvez Malik**  
-Senior IT Infrastructure & Service Delivery Manager
+## Project
 
-#ITOperations #ITInfrastructure #ITSM #AIOps #AgenticAI #AgenticOps #Automation #ServiceDelivery #ITLeadership #AI
+**AgenticOps — Governed AI for IT Operations**
+
+GitHub:  
+https://github.com/shahidalparvezmalik/agentic-it-operations
+
+Professional portfolio:  
+https://shahidalparvezmalik.com/
+
+---
+
+## About the Author
+
+**Shahid Al Parvez Malik** is a Senior IT Infrastructure & Service Delivery Manager specializing in IT Operations, enterprise infrastructure, IT Service Management, technology procurement, vendor management and operational improvement.
+
+---
+
+## Recommended LinkedIn Visuals
+
+**Article cover:** `agenticops-linkedin-cover-1920x1080.png`
+
+**In-article visual:** `agenticops-executive-dashboard.png`
+
+**Supporting architecture visual:** `agenticops-architecture.svg`
+
+Recommended placement:
+- Use the article cover as LinkedIn article cover.
+- Place the executive dashboard after “A Practical Example” or “What the GitHub Project Demonstrates.”
+- Use the governance architecture near “Why Governance Becomes More Important.”
+- Keep the dashboard and architecture as supporting evidence rather than the main cover.
+
+## Recommended Hashtags
+
+#ITOperations #ITInfrastructure #ITSM #AIOps #AgenticAI #AgenticOps #Automation #ServiceDelivery #ITLeadership #IrishTech #ireland
