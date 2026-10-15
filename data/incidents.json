@@ -1,0 +1,11 @@
+[
+  {
+    "incident_id": "INC-2041",
+    "host": "APP-SRV-01",
+    "service": "SampleAppService",
+    "category": "application_service",
+    "priority": "P2",
+    "status": "open",
+    "related_event_ids": ["EVT-1001", "EVT-1002", "EVT-1003"]
+  }
+]
