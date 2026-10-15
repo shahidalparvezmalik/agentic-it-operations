@@ -207,7 +207,7 @@ https://github.com/shahidalparvezmalik/agentic-it-operations
 
 Executive dashboard:
 
-https://github.com/shahidalparvezmalik/agentic-it-operations/blob/main/docs/images/agenticops-executive-dashboard.svg
+https://github.com/shahidalparvezmalik/agentic-it-operations/blob/main/docs/images/agenticops-executive-dashboard.png
 
 Governance architecture:
 
