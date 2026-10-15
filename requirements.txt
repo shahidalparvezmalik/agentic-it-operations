@@ -1,0 +1,2 @@
+# AgenticOps currently uses only the Python standard library.
+# External AI/LLM APIs are intentionally not required for the MVP.
