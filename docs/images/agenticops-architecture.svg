@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760">
+<rect width="1500" height="760" fill="#f7fafc"/>
+<text x="750" y="58" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#102a43">AgenticOps Governance Architecture</text>
+<text x="750" y="88" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#52667a">AI-assisted reasoning is separated from operational authority</text>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+  <rect x="70" y="145" width="230" height="95" rx="14" fill="#d9efff" stroke="#3b82b7" stroke-width="2"/>
+  <text x="185" y="180" font-size="19" font-weight="700" fill="#12344d">IT Operations Signals</text><text x="185" y="208" font-size="14" fill="#4a6377">Infrastructure • ITSM • Service state</text>
+  <rect x="365" y="145" width="230" height="95" rx="14" fill="#e8f5ed" stroke="#4b9a70" stroke-width="2"/>
+  <text x="480" y="180" font-size="19" font-weight="700" fill="#174c31">Correlation</text><text x="480" y="208" font-size="14" fill="#4a6377">Context + related events</text>
+  <rect x="660" y="145" width="230" height="95" rx="14" fill="#f1ebff" stroke="#7c61b5" stroke-width="2"/>
+  <text x="775" y="180" font-size="19" font-weight="700" fill="#3d2a68">Diagnosis + Risk</text><text x="775" y="208" font-size="14" fill="#4a6377">Pattern + confidence + risk</text>
+  <rect x="955" y="145" width="230" height="95" rx="14" fill="#fff3d8" stroke="#c89222" stroke-width="2"/>
+  <text x="1070" y="180" font-size="19" font-weight="700" fill="#684b00">Agent Planner</text><text x="1070" y="208" font-size="14" fill="#4a6377">Recommendation + rationale</text>
+  <rect x="1250" y="145" width="180" height="95" rx="14" fill="#ffe6ea" stroke="#c65463" stroke-width="2"/>
+  <text x="1340" y="180" font-size="19" font-weight="700" fill="#7a202d">Policy Gate</text><text x="1340" y="208" font-size="14" fill="#4a6377">Allow • Deny • Approval</text>
+  <g stroke="#5f7487" stroke-width="3" fill="none"><path d="M300 192 H360"/><path d="M595 192 H655"/><path d="M890 192 H950"/><path d="M1185 192 H1245"/></g>
+  <g fill="#5f7487"><path d="M360 192 l-10 -7 v14 z"/><path d="M655 192 l-10 -7 v14 z"/><path d="M950 192 l-10 -7 v14 z"/><path d="M1245 192 l-10 -7 v14 z"/></g>
+
+  <rect x="315" y="320" width="320" height="150" rx="16" fill="#eef4f8" stroke="#7590a5" stroke-width="2"/>
+  <text x="475" y="355" font-size="20" font-weight="700" fill="#243b53">Human Approval</text>
+  <text x="475" y="386" font-size="15" fill="#52667a">Required for high-impact actions</text>
+  <text x="475" y="414" font-size="15" fill="#52667a">Explicit authorization + accountability</text>
+  <text x="475" y="442" font-size="15" fill="#52667a">Approval becomes an auditable event</text>
+
+  <rect x="865" y="320" width="320" height="150" rx="16" fill="#eaf7f0" stroke="#5a9a76" stroke-width="2"/>
+  <text x="1025" y="355" font-size="20" font-weight="700" fill="#174c31">Action Simulator</text>
+  <text x="1025" y="386" font-size="15" fill="#52667a">Approved playbook execution</text>
+  <text x="1025" y="414" font-size="15" fill="#52667a">Safe simulation in the MVP</text>
+  <text x="1025" y="442" font-size="15" fill="#52667a">No production changes</text>
+  <path d="M1340 240 V290 H1025 V315" stroke="#5f7487" stroke-width="3" fill="none"/>
+  <path d="M1340 240 V290 H475 V315" stroke="#5f7487" stroke-width="3" fill="none"/>
+  <path d="M635 395 H860" stroke="#5f7487" stroke-width="3"/><path d="M855 395 l-10 -7 v14 z" fill="#5f7487"/>
+
+  <rect x="560" y="555" width="380" height="110" rx="16" fill="#102a43"/>
+  <text x="750" y="592" font-size="21" font-weight="700" fill="#ffffff">Audit &amp; Reporting</text>
+  <text x="750" y="621" font-size="15" fill="#c7d8e6">Decision • policy • approval • action • outcome</text>
+  <text x="750" y="646" font-size="14" fill="#9fbbcf">Complete traceability for management review</text>
+  <path d="M1025 470 V520 H750 V550" stroke="#5f7487" stroke-width="3" fill="none"/><path d="M475 470 V520 H750 V550" stroke="#5f7487" stroke-width="3" fill="none"/>
+</g>
+</svg>
