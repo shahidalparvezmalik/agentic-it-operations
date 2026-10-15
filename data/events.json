@@ -1,0 +1,39 @@
+[
+  {
+    "event_id": "EVT-1001",
+    "timestamp": "2026-10-15T08:00:00Z",
+    "host": "APP-SRV-01",
+    "type": "service_unavailable",
+    "service": "SampleAppService",
+    "severity": "high",
+    "metrics": {
+      "cpu_percent": 82,
+      "memory_percent": 88,
+      "network_status": "ok",
+      "dns_status": "ok"
+    }
+  },
+  {
+    "event_id": "EVT-1002",
+    "timestamp": "2026-10-15T08:01:00Z",
+    "host": "APP-SRV-01",
+    "type": "resource_pressure",
+    "service": "SampleAppService",
+    "severity": "medium",
+    "metrics": {
+      "cpu_percent": 82,
+      "memory_percent": 88
+    }
+  },
+  {
+    "event_id": "EVT-1003",
+    "timestamp": "2026-10-15T08:02:00Z",
+    "host": "APP-SRV-01",
+    "type": "service_repeated_failure",
+    "service": "SampleAppService",
+    "severity": "high",
+    "metrics": {
+      "recent_failures": 4
+    }
+  }
+]
