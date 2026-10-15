@@ -12,7 +12,7 @@ The prototype does **not** grant unrestricted production access to an AI agent. 
 
 ## Executive View
 
-![AgenticOps Executive Dashboard](docs/images/agenticops-executive-dashboard.svg)
+![AgenticOps Executive Dashboard](docs/images/agenticops-executive-dashboard.png)
 
 The executive dashboard connects operational risk, active events, agent recommendations, human-approval requirements and audit coverage in one management-oriented view.
 
@@ -161,8 +161,9 @@ agentic-it-operations/
 │   ├── ACTION_POLICY.md
 │   ├── RISK_MODEL.md
 │   ├── LINKEDIN_ARTICLE.md
+│   ├── LINKEDIN_PROMOTION_POST.md
 │   └── images/
-│       ├── agenticops-executive-dashboard.svg
+│       ├── agenticops-executive-dashboard.png
 │       └── agenticops-architecture.svg
 └── .github/
     └── workflows/
@@ -234,6 +235,7 @@ Current scope:
 - Governance architecture visual
 - Tests and CI validation
 - LinkedIn article draft
+- LinkedIn promotion post
 
 Future enhancements may include optional LLM-assisted reasoning, CMDB/ITSM integration, observability data, approval APIs, service-impact mapping, agent identity controls and additional autonomy policies.
 
