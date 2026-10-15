@@ -38,6 +38,37 @@ I documented the thinking and implementation in my new article:
 GitHub proof of concept:
 https://github.com/shahidalparvezmalik/agentic-it-operations
 
+## Project
+
+**AgenticOps — Governed AI for IT Operations**
+
+GitHub:  
+https://github.com/shahidalparvezmalik/agentic-it-operations
+
+Professional portfolio:  
+https://shahidalparvezmalik.com/
+
+---
+
+## About the Author
+
+**Shahid Al Parvez Malik** is a Senior IT Infrastructure & Service Delivery Manager specializing in IT Operations, enterprise infrastructure, IT Service Management, technology procurement, vendor management and operational improvement.
+
+---
+
+## Recommended LinkedIn Visuals
+
+**Article cover:** `agenticops-linkedin-cover-1920x1080.png`
+
+**In-article visual:** `agenticops-executive-dashboard.png`
+
+**Supporting architecture visual:** `agenticops-architecture.svg`
+
+Recommended placement:
+- Use the article cover as LinkedIn article cover.
+- Place the executive dashboard as supporting evidence in the article.
+- Use the governance architecture to reinforce the governance section.
+
 What is the right autonomy boundary for enterprise IT Operations — recommendation, human-approved action, or controlled autonomous execution?
 
-#ITOperations #ITInfrastructure #ITSM #AIOps #AgenticAI #AgenticOps #Automation #ServiceDelivery #ITLeadership #AI
+#ITOperations #ITInfrastructure #ITSM #AIOps #AgenticAI #AgenticOps #Automation #ServiceDelivery #ITLeadership #IrishTech #ireland
