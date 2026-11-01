@@ -1,6 +1,6 @@
 # LinkedIn Group Post — AgenticOps
 
-**Draft for review — not published.**
+**Status:** Article published on LinkedIn on 15 October 2026.
 
 IT Operations teams already have plenty of technical signals: infrastructure health, service availability, network and DNS events, incidents, alerts, and operational metrics.
 
