@@ -234,7 +234,7 @@ Current scope:
 - Executive dashboard
 - Governance architecture visual
 - Tests and CI validation
-- LinkedIn article draft
+- LinkedIn article: [From AIOps to AgenticOps: Turning IT Signals into Governed Action](https://www.linkedin.com/pulse/from-aiops-agenticops-turning-signals-governed-action-malik-7fkgc/) (published 15 October 2026)
 - LinkedIn promotion post
 
 Future enhancements may include optional LLM-assisted reasoning, CMDB/ITSM integration, observability data, approval APIs, service-impact mapping, agent identity controls and additional autonomy policies.
